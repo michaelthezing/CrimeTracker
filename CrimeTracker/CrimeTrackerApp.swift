@@ -11,7 +11,9 @@ import SwiftUI
 struct CrimeTrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           ContentView()
+          
+            
         }
     }
 }
